@@ -9,4 +9,8 @@
   <li>⚡ Fun Fact: </li>
 </ul>
 <h4>I've worked on projects involving:</h4>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
