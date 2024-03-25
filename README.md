@@ -16,6 +16,6 @@
 <h4>And i'm familiar with</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,discord,fastapi,eclipse,flask,ai,mui,matlab,npm,ps,postman,tailwind" />
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,fastapi,eclipse,flask,ai,mui,matlab,npm,ps,postman,tailwind" />
   </a>
 </p>
