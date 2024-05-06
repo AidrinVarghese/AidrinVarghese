@@ -3,7 +3,7 @@
 <h3>Nice to meet you!<h3>
 <ul>
   <li>👀 I'm enthusiastic about participating in collaborative projects.</li>
-  <li>🌱 Currently, I'm undergoing training as a Software Developer.</li>
+  <li>🌱 Associate Software Engineer.</li>
   <li>💞️ I have a passion for arts, with drawing being one of my hobbies.</li>
   <li>📫 While I'm not particularly active on social platforms, you can still reach me here.</li>
 </ul>
