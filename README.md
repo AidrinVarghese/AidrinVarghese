@@ -1,5 +1,5 @@
 <h1>👋 Hi there</h1>
-<h3>I'm AidrinVarghese<h3>
+<h3>I'm Aidrin Varghese<h3>
 <h3>Nice to meet you!<h3>
 <ul>
   <li>👀 I'm enthusiastic about participating in collaborative projects.</li>
